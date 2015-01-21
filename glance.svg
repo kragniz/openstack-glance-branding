@@ -16,8 +16,8 @@
    version="1.1"
    inkscape:version="0.48.5 r10040"
    sodipodi:docname="glance.svg"
-   inkscape:export-xdpi="55.600483"
-   inkscape:export-ydpi="55.600483">
+   inkscape:export-xdpi="108.58"
+   inkscape:export-ydpi="108.58">
   <defs
      id="defs4">
     <linearGradient
@@ -565,9 +565,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="383.70439"
-     inkscape:cy="451.30443"
+     inkscape:zoom="1"
+     inkscape:cx="427.62028"
+     inkscape:cy="308.04794"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -609,7 +609,7 @@
        transform="matrix(0.80479374,-0.08985007,0.60306589,0.25812612,1637.3623,559.44799)" />
     <g
        id="g3075"
-       transform="matrix(0.69804246,-0.15506774,0,0.80479374,1213.2113,484.60552)">
+       transform="matrix(0.6544103,-0.06022163,0,0.75448894,1223.7416,475.2062)">
       <g
          transform="translate(28.571429,-111.42857)"
          style="stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none"
