@@ -1,5 +1,5 @@
-openstack-glance-branding
-=========================
+openstack-glance-logo
+=====================
 
 W-we're cool now, right?
 
